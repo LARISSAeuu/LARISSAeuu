@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LARISSAeuu
-- 👀 I’m interested in ...NADA NO MOMENT0!
-- 💞️ I’m looking to collaborate on ...SLA...
-- 📫 How to reach me ...SEM CHANCES foi mal :(
+- 💞️ I’m looking to  APRENDER A PROGRAMAR  :(
 
 <!---
 LARISSAeuu/LARISSAeuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
