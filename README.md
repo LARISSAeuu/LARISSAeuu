@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LARISSAeuu
-- 💞️ I’m looking to  APRENDER    PROGRAMAR  :
+- 💞️ I’m looking to  APRENDER    PROGRAMAR  :)
 
 <!---
 LARISSAeuu/LARISSAeuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
