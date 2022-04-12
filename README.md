@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LARISSAeuu
+- 👋 Hi, I’m @LARISSA
 - 💞️ I’m looking to  APRENDER    PROGRAMAR  :)
 
 <!---
